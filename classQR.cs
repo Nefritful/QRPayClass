@@ -5,7 +5,7 @@ using System.IO;
 using System.Reflection;
 using ZXing;
 
-namespace MFC_quittance3
+namespace paymentQRcode
 {
 
     /// <summary> 
