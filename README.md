@@ -1,9 +1,8 @@
-<h4 align="center">
-  # QRPayClass
-</h4>
+<h1 align="center">
+   QRPayClass
+   Класс генерации платежного QR кода
+</h1>
 
-
-# Класс генерации платежного QR кода
 В основе лежит ГОСТ Р 56042-2014, соответствующая документация доступна по [`ссылке`](https://www.sberbank.ru/common/img/uploaded/files/shtrih-kod-standart.pdf) на сайте Сбербанка.
 
 Структура
